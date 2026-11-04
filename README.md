@@ -1,2 +1,7 @@
-# ANSYS-Projects
-ANSYS Mechanical simulation projects: modal, thermal and structural analyses.
+# ANSYS Projects
+
+Finite element simulation projects in ANSYS Mechanical.
+
+| Analysis | Project |
+|---|---|
+| Modal | [Modal analysis of a 3-layer photovoltaic laminate](modal/pv-laminate-modal-analysis) |
